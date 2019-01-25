@@ -1,6 +1,7 @@
 # Proyecto Pisercons SL
-## Proyecto final de la Asignatura:  ADMINISTRACIÓN Y DISEÑO DE BASE DE DATOS
+# Proyecto final de la Asignatura:  ADMINISTRACIÓN Y DISEÑO DE BASE DE DATOS
 ***
+
 ## Participantes:
 * Jorge Gutiérrez Reyes. _ALU0100918540_
 * José Del Castillo González. _ALU0100956955_
