@@ -1,5 +1,5 @@
 # Proyecto Pisercons SL
-# Proyecto final de la Asignatura:  ADMINISTRACIÓN Y DISEÑO DE BASE DE DATOS
+## Proyecto final de la Asignatura:  ADMINISTRACIÓN Y DISEÑO DE BASE DE DATOS
 ***
 
 ## Participantes:
